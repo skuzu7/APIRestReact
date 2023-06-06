@@ -1,0 +1,68 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Website development",
+      "type": "income",
+      "category": "sales",
+      "price": 140000,
+      "createdAt": "2023-06-02T14:30:00.000Z"
+    },
+    {
+      "id": 6,
+      "description": "Website development",
+      "type": "income",
+      "category": "sales",
+      "price": 140000,
+      "createdAt": "2023-06-02T14:30:00.000Z"
+    },
+    {
+      "id": 2,
+      "description": "Marketing consulting",
+      "type": "income",
+      "category": "services",
+      "price": 80000,
+      "createdAt": "2023-05-30T09:15:00.000Z"
+    },
+    {
+      "id": 3,
+      "description": "Stock purchase",
+      "type": "outcome",
+      "category": "purchases",
+      "price": 50000,
+      "createdAt": "2023-05-25T16:45:00.000Z"
+    },
+    {
+      "id": 4,
+      "description": "Supplier payment",
+      "type": "outcome",
+      "category": "payments",
+      "price": 20000,
+      "createdAt": "2023-06-01T11:00:00.000Z"
+    },
+    {
+      "id": 5,
+      "description": "Rent receipt",
+      "type": "income",
+      "category": "rental",
+      "price": 3000,
+      "createdAt": "2023-05-28T18:20:00.000Z"
+    },
+    {
+      "id": 0.4871991880187221,
+      "description": "asd",
+      "price": 222,
+      "category": "web",
+      "type": "income",
+      "createdAt": "2023-06-06T18:06:01.920Z"
+    },
+    {
+      "id": 0.8603033627194256,
+      "description": "dsadadas",
+      "price": 222,
+      "category": "asdsa",
+      "type": "income",
+      "createdAt": "2023-06-06T19:05:17.008Z"
+    }
+  ]
+}
